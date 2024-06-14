@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Mujeeb02
-- 👀 I’m interested in Web designing and Software development.
-- 🌱 I’m currently learning Java and Web development.
-- 💞️ I’m looking to collaborate on Web development.
-- 📫 How to reach me Mjbshahid9919@gmail.com
+# Hi there, I'm John Doe 👋
 
-<!---
-Mujeeb02/Mujeeb02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a passionate software developer with a love for open-source projects and community building.
+
+## Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Python](https://img.shields.io/badge/-Python-blue)
+![React](https://img.shields.io/badge/-React-blue)
+
+## GitHub Stats
+![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-doe&layout=compact&theme=radical)
+
+## Projects
+- [Project 1](https://github.com/john-doe/project-1): A brief description of the project.
+- [Project 2](https://github.com/john-doe/project-2): A brief description of the project.
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-doe/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/john_doe)
+
+## Fun Fact
+![fun fact](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
