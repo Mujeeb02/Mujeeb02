@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/your-username/your-username/main/assets/header.png)
+![Header](https://raw.githubusercontent.com/Mujeeb02/Mujeeb02/main/assets/header.png)
 
 <h1 align="center">Hi 👋, I'm Mujeeburrahman</h1>
 <h3 align="center">A passionate software developer from India</h3>
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/your-username" target="blank"><img src="https://img.shields.io/twitter/follow/your-username?logo=twitter&style=for-the-badge" alt="your-username" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development and Cloud Technologies**
+- 🌱 I’m currently learning **Mern Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/your-username](https://github.com/Mujeeb02)
+- 👨‍💻 All of my projects are available at [https://github.com/Mujeeb02](https://github.com/Mujeeb02)
 
-- 📝 I regularly write articles on [https://medium.com/@your-username](https://medium.com/@mjbshahid9919)
+- 📝 I regularly write articles on [https://medium.com/@mjbshahid9919](https://medium.com/@mjbshahid9919)
 
 - 💬 Ask me about **MERN stack, Java, and Cloud Integration**
 
 - 📫 How to reach me **mjbshahid9919@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/your-username](https://www.linkedin.com/in/mujeeb-ur-rahman-9343b3192/)
+- 📄 Know about my experiences [https://linkedin.com/in/Mujeeb-ur-rahman-9343b3192/](https://www.linkedin.com/in/mujeeb-ur-rahman-9343b3192/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,9 +54,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&" alt="your-username" /></p>
 
 ## 🏆 Achievements
-- Solved 530+ Data Structures coding problems on LeetCode [![Proof](https://img.shields.io/badge/LeetCode-Proof-orange?style=flat&logo=leetcode)](https://leetcode.com/your-username)
+- Solved 530+ Data Structures coding problems on LeetCode [![Proof](https://img.shields.io/badge/LeetCode-Proof-orange?style=flat&logo=leetcode)](https://leetcode.com/u/the_mujeeb02/)
 - Got 3rd position in District in secondary schooling.
-- Developed and curated 150+ Leetcode DSA problem solutions with detailed explanations on GitHub [![GitHub](https://img.shields.io/badge/GitHub-Proof-blue?style=flat&logo=github)](https://github.com/your-username/leetcode-solutions)
+- Developed and curated 150+ Leetcode DSA problem solutions with detailed explanations on GitHub [![GitHub](https://img.shields.io/badge/GitHub-Proof-blue?style=flat&logo=github)](https://github.com/Mujeeb02/leetcode-solutions)
 
 ## 📚 Certifications
 1. FullStack web development course by Internshala - [Internshala]
