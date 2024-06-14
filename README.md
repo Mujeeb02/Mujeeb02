@@ -1,68 +1,72 @@
 ![Header](https://raw.githubusercontent.com/your-username/your-username/main/assets/header.png)
 
-# Hi there, I'm Mujeeburrahman 👋
+<h1 align="center">Hi 👋, I'm Mujeeburrahman</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
-## Contact
-📧 [Email](mailto:mjbshahid9919@gmail.com) | 📞 9984432409 | 📍 Sidhartha Nagar, Uttar Pradesh
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-username)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/your-username)
+<p align="left"> <a href="https://twitter.com/your-username" target="blank"><img src="https://img.shields.io/twitter/follow/your-username?logo=twitter&style=for-the-badge" alt="your-username" /></a> </p>
 
----
+- 🌱 I’m currently learning **Backend Development and Cloud Technologies**
 
-## Education 🎓
-**Chandigarh University** - Mohali, Punjab  
-*Bachelors of Engineering (B.E), Computer Science* (CGPA: 7.80)  
-*Expected Graduation: 07/2024*
+- 👨‍💻 All of my projects are available at [https://github.com/your-username](https://github.com/Mujeeb02)
 
----
+- 📝 I regularly write articles on [https://medium.com/@your-username](https://medium.com/@mjbshahid9919)
 
-## Skills 🛠️
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+- 💬 Ask me about **MERN stack, Java, and Cloud Integration**
 
-**Libraries/Frameworks:**  
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=flat&logo=express&logoColor=white)
-![TailWindCSS](https://img.shields.io/badge/TailWindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-![FlowbiteReact](https://img.shields.io/badge/FlowbiteReact-0F9D58?style=flat&logo=flowbite&logoColor=white)
+- 📫 How to reach me **mjbshahid9919@gmail.com**
 
-**Tools / Platforms:**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+- 📄 Know about my experiences [https://linkedin.com/in/your-username](https://www.linkedin.com/in/mujeeb-ur-rahman-9343b3192/)
 
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mujeeb-ur-rahman-9343b3192/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-username" height="30" width="40" /></a>
+<a href="https://twitter.com/morecric" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="your-username" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19871041/mujeeb-ur-rahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="your-username" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_mujeeb24/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="your-username" height="30" width="40" /></a>
+<a href="https://medium.com/@mjbshahid9919" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@your-username" height="30" width="40" /></a>
+</p>
 
-**Third-Party Libraries:**  
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer-00C7B7?style=flat&logo=mule&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://jwt.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="40" height="40"/> </a>
+<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://cloudinary.com" target="_blank"> <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1611730380/logo/for-white-bg/cloudinary_icon_blue.svg" alt="cloudinary" width="40" height="40"/> </a>
+<a href="https://stripe.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="40" height="40"/> </a>
+</p>
 
-**Miscellaneous:**  
-![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=flat&logo=cloudinary&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact" alt="your-username" /></p>
 
-**Theory Subjects:**  
-DBMS | Operating System | Object-Oriented Programming (OOPS) | Data Structures & Algorithms | Computer Networks
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&" alt="your-username" /></p>
 
-## Projects 💻
+## 🏆 Achievements
+- Solved 530+ Data Structures coding problems on LeetCode [![Proof](https://img.shields.io/badge/LeetCode-Proof-orange?style=flat&logo=leetcode)](https://leetcode.com/your-username)
+- Got 3rd position in District in secondary schooling.
+- Developed and curated 150+ Leetcode DSA problem solutions with detailed explanations on GitHub [![GitHub](https://img.shields.io/badge/GitHub-Proof-blue?style=flat&logo=github)](https://github.com/your-username/leetcode-solutions)
 
-### 1. Quick-X Ecommerce Project using MERN stack
-[![Code](https://img.shields.io/badge/Code-Repository-blue?style=flat&logo=github)](https://github.com/your-username/quick-x-ecommerce) 
-[![Live](https://img.shields.io/badge/Live-Project-blue?style=flat&logo=heroku)](https://quick-x-ecommerce.herokuapp.com)  
+## 📚 Certifications
+1. FullStack web development course by Internshala - [Internshala]
+2. Mastering Java from SpringBoard - [SpringBoard]
+3. CodeKaze Participation certificate by Coding Ninjas, 06/2023 - [Coding Ninjas]
+
+## ⚡ Recent Projects
+### Quick-X Ecommerce Project using MERN stack
+[![Code](https://github.com/Mujeeb02/Frontend-_Ecommer) 
+[![Live](https://shop-next-omega-woad.vercel.app/)  
 
 - Created an eCommerce platform using MERN stack with Redux Toolkit, SCSS, Multer, and TypeScript.
 - Implemented Google authentication via Firebase for user login.
@@ -73,9 +77,9 @@ DBMS | Operating System | Object-Oriented Programming (OOPS) | Data Structures &
 **Technologies used:** React.js, Redux Toolkit, SCSS (Front-end), Node.js, Express.js (Back-end), MongoDB (Database), Firebase (Authentication), Multer (File-Upload), TypeScript, Stripe (Payment Integration)  
 *Completion Date: 04/2024*
 
-### 2. Umedia Movie App using React & Tailwind CSS
-[![Code](https://img.shields.io/badge/Code-Repository-blue?style=flat&logo=github)](https://github.com/your-username/umedia-movie-app) 
-[![Live](https://img.shields.io/badge/Live-Project-blue?style=flat&logo=heroku)](https://umedia-movie-app.herokuapp.com)  
+### Umedia Movie App using React & Tailwind CSS
+[![Code](https://github.com/Mujeeb02/Movie_app) 
+[![Live](https://movie-app-lake-nu.vercel.app/)  
 
 - The Movie Recommendation and Search project is designed to provide users with a seamless experience in discovering and exploring movies and web series. Leveraging React and Tailwind CSS, this application fetches data from the TMDB database using Axios for API requests.
 - Features:
@@ -86,30 +90,11 @@ DBMS | Operating System | Object-Oriented Programming (OOPS) | Data Structures &
 **Technologies used:** React.js, Redux Toolkit, Tailwind CSS, Axios  
 *Completion Date: 03/2024*
 
----
-
-## Achievements 🏆
-1. Solved 530+ Data Structures coding problems on LeetCode [![Proof](https://img.shields.io/badge/LeetCode-Proof-orange?style=flat&logo=leetcode)](https://leetcode.com/your-username)
-2. Got 3rd position in District in secondary schooling.
-3. Developed and curated 150+ Leetcode DSA problem solutions with detailed explanations on GitHub [![GitHub](https://img.shields.io/badge/GitHub-Proof-blue?style=flat&logo=github)](https://github.com/your-username/leetcode-solutions)
-
----
-
-## Certifications 📜
-1. FullStack web development course by Internshala - [Internshala](https://internshala.com)
-2. Mastering Java from SpringBoard - [SpringBoard](https://springboard.com)
-3. CodeKaze Participation certificate by Coding Ninjas, 06/2023 - [Coding Ninjas](https://codingninjas.com)
-
----
-
-## Interests and Hobbies 🎨
+## 🎨 Interests and Hobbies
 - 🏏 Cricket Analyzing
 - 📊 Dashboard Creation
 - 📚 Book Reading
 - 🐛 Debugging
 - 🔧 Issue Resolution
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
-
+![Footer](https://raw.githubusercontent.com/your-username/your-username/main/assets/footer.png)
