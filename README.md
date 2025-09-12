@@ -94,4 +94,9 @@
 <a href="https://medium.com/@mjbshahid9919" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
-![Footer](https://raw.githubusercontent.com/Mujeeb02/Mujeeb02/main/assets/footer.png)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+collaborate🚀)](https://git.io/typing-svg)
+
+</div>
+
