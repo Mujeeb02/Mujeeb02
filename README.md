@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Mujeeb02/Mujeeb02/main/assets/header.png)
+https://raw.githubusercontent.com/Mujeeb02/Mujeeb02/HEAD/assets/header.png
 
 <h1 align="center">Hi 👋, I'm Mujeeburrahman</h1>
 <h3 align="center">A passionate Full Stack Software Developer from India</h3>
