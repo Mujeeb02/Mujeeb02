@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/Mujeeb02/Mujeeb02/HEAD/assets/header.png
+![Mujeeburrahman - Full Stack Developer](https://img.shields.io/badge/👨‍💻_Mujeeburrahman-Full--Stack--Developer-blueviolet?style=for-the-badge&logo=github)
 
 <h1 align="center">Hi 👋, I'm Mujeeburrahman</h1>
 <h3 align="center">A passionate Full Stack Software Developer from India</h3>
