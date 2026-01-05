@@ -63,6 +63,57 @@
 - Features progressive difficulty, streak-based scoring & competitive leaderboards.
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mujeeb02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb02&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak & Consistency
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mujeeb02&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧠 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mujeeb02&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🏗️ Open Source & GitHub Impact
+
+- 🚀 **Active contributor** across multiple full-stack repositories  
+- 📦 Maintained production-ready projects with **clean commit history**
+- 🔄 Regular commits showcasing **consistency & discipline**
+- 🧪 Strong focus on **feature development, refactoring & performance tuning**
+
+---
+
+## 🧩 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mujeeb02&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
 
 ## 🏆 Achievements
 - Solved **530+ DSA problems** on [LeetCode](https://leetcode.com/u/the_mujeeb02/)  
